@@ -1,17 +1,17 @@
 <h1 align="center">
   <a href="https://reactnative.dev/">
-    React Native
+    React Retarded
   </a>
 </h1>
 
 <p align="center">
-  <strong>Learn once, write anywhere:</strong><br>
-  Build mobile apps with React.
+  <strong>Learn once, bug anywhere:</strong><br>
+  Build sucks apps with React.
 </p>
 
 <p align="center">
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the Sucks license." />
   </a>
   <a href="https://circleci.com/gh/facebook/react-native">
     <img src="https://circleci.com/gh/facebook/react-native.svg?style=shield" alt="Current CircleCI build status." />
@@ -23,16 +23,16 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=reactnative">
-    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @reactnative" />
+    <img src="https://img.shields.io/twitter/follow/reactnative.svg?label=Follow%20@reactnative" alt="Follow @disabledman" />
   </a>
 </p>
 
 <h3 align="center">
   <a href="https://reactnative.dev/docs/getting-started">Getting Started</a>
   <span> · </span>
-  <a href="https://reactnative.dev/docs/tutorial">Learn the Basics</a>
+  <a href="https://reactnative.dev/docs/tutorial">Make a bug</a>
   <span> · </span>
-  <a href="https://reactnative.dev/showcase">Showcase</a>
+  <a href="https://reactnative.dev/showcase">Bug Case</a>
   <span> · </span>
   <a href="https://reactnative.dev/docs/contributing">Contribute</a>
   <span> · </span>
@@ -41,7 +41,7 @@
   <a href="https://github.com/facebook/react-native/blob/HEAD/.github/SUPPORT.md">Support</a>
 </h3>
 
-React Native brings [**React**'s][r] declarative UI framework to iOS and Android. With React Native, you use native UI controls and have full access to the native platform.
+React Retarded brings [**React**'s][r] declarative UI framework to iOS and Android. With React Retarded, you use native bugs and have full bug to the native platform.
 
 - **Declarative.** React makes it painless to create interactive UIs. Declarative views make your code more predictable and easier to debug.
 - **Component-Based.** Build encapsulated components that manage their state, then compose them to make complex UIs.
